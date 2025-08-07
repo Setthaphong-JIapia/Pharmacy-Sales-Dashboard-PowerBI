@@ -44,11 +44,13 @@ This Power BI project visualizes pharmacy sales performance across key dimension
 
 ---
 
-## 📍 Screenshot
+## 📍 Dashboard Screenshots
 
-> Dashboard snapshot (click to zoom):
+> Sample report pages:
 
-![Pharmacy Dashboard Preview](https://github.com/Setthaphong-JIapia/Pharmacy-Sales-Dashboard-PowerBI/blob/main/assets/Pharmacy1.png) (https://github.com/Setthaphong-JIapia/Pharmacy-Sales-Dashboard-PowerBI/blob/main/assets/Pharmacy2.png)
+![Pharmacy Dashboard Page 1](https://github.com/Setthaphong-JIapia/Pharmacy-Sales-Dashboard-PowerBI/blob/main/assets/Pharmacy1.png)
+
+![Pharmacy Dashboard Page 2](https://github.com/Setthaphong-JIapia/Pharmacy-Sales-Dashboard-PowerBI/blob/main/assets/Pharmacy2.png)
 
 ---
 
